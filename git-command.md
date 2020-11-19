@@ -1,4 +1,4 @@
-
+配置
 ```sh
 git config --global user.name "chanderlier"
 ```
@@ -26,9 +26,12 @@ git commit -m 'message'
 ```sh
 git commit -a
 ```
-
+下载
 ```sh
-git clone  
+git clone  git@github.com:chanderlier/studypython.git
+```
+```sh
+git remote add (alias) git@github.com:chanderlier/studypython.git
 ```
 列出所有分支
 ```sh
